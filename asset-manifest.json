@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71bf6fcd.chunk.css",
+    "main.js": "/static/js/main.303f08f9.chunk.js",
+    "main.js.map": "/static/js/main.303f08f9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.013c5f84.js",
+    "runtime-main.js.map": "/static/js/runtime-main.013c5f84.js.map",
+    "static/css/2.ace36aee.chunk.css": "/static/css/2.ace36aee.chunk.css",
+    "static/js/2.19c6dbab.chunk.js": "/static/js/2.19c6dbab.chunk.js",
+    "static/js/2.19c6dbab.chunk.js.map": "/static/js/2.19c6dbab.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1eaa7522f710896d3363dc84362a91ba.js": "/precache-manifest.1eaa7522f710896d3363dc84362a91ba.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ace36aee.chunk.css.map": "/static/css/2.ace36aee.chunk.css.map",
+    "static/css/main.71bf6fcd.chunk.css.map": "/static/css/main.71bf6fcd.chunk.css.map",
+    "static/js/2.19c6dbab.chunk.js.LICENSE": "/static/js/2.19c6dbab.chunk.js.LICENSE",
+    "static/media/1_2_devyash_photo.jpg": "/static/media/1_2_devyash_photo.cb9f48d4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.013c5f84.js",
+    "static/css/2.ace36aee.chunk.css",
+    "static/js/2.19c6dbab.chunk.js",
+    "static/css/main.71bf6fcd.chunk.css",
+    "static/js/main.303f08f9.chunk.js"
+  ]
+}
